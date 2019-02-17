@@ -1,3 +1,5 @@
+<h1>Larabiz</h1>
+<p>Tutorial on user authentication</p>
 Clone or download and test
 <p>Create database: larabiz</p>
 <p>Run migration </p>
