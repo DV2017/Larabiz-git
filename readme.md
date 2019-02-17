@@ -1,6 +1,6 @@
 <h1>Larabiz</h1>
 <p>Tutorial on user authentication</p>
-Clone or download and test
+<p>Clone or download and test</p>
 <p>Create database: larabiz</p>
 <p>Run migration </p>
 <p>Run db:seed. This will create user</p>
